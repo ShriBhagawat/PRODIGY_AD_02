@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Background color gradient -->
+    <color name="colorStartGradient">#FF6F00</color>
+    <color name="colorEndGradient">#FFAB40</color>
+
+    <!-- Button background color -->
+    <color name="buttonBackgroundColor">#FF6F00</color>
+
+    <!-- Edit text background color -->
+    <color name="editTextBackgroundColor">#5D4037</color>
+
+    <!-- List view item background color -->
+    <color name="listViewBackgroundColor">#FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="titleTextColor">#FFFFFF</color>
+    <color name="hintTextColor">#FFFFFF</color>
+
+    <color name="statusBarColor">#FF6F00</color>
+</resources>
